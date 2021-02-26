@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first project with Ruby on Rails.
+I developed this prototype to help people facing Domestic Violence after I took my Ruby on Rails bootcamp.
+This version was developed with Rails 5, JavaScript, HTML, CSS.
+ 
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
